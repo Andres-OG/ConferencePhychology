@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'conferencePsy'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_720E1D644DAF4E7C84139128500F5572 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F259F1C333B943E5BB41F41F1833D4CC }}
           package: .
